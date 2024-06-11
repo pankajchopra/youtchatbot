@@ -1,0 +1,3 @@
+pyzmq>=15.2.0
+pyaudio>=0.2.9
+SpeechRecognition>=3.4.5
